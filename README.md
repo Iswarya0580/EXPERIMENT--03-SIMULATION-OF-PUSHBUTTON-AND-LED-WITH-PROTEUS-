@@ -184,8 +184,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![Screenshot 2025-03-22 105816](https://github.com/user-attachments/assets/828b0054-0f35-4f10-ac67-e37d08d0121a)
 
+ ## Proteus layout :
  
- 
+![image](https://github.com/user-attachments/assets/84f0b71d-45c8-4ce9-ab04-7d1137971c98)
+
+![image](https://github.com/user-attachments/assets/e076148e-96d2-4079-bcb7-4f1b2315f6eb)
+
+
+
  
  
 ## Result :
